@@ -1,2 +1,1 @@
-pyrogram
-pytgcalls==0.8.5
+pytgcalls
