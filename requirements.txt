@@ -1,2 +1,3 @@
 pyrogram
-pytgcalls
+PyTgCalls==0.9.8
+
