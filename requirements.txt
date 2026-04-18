@@ -1,2 +1,2 @@
 pyrogram
-pytgcalls==1.1.0
+PyTgCalls==1.1.0
